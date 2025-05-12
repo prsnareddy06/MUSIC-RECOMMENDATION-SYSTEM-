@@ -42,3 +42,6 @@ This is a music recommendation system that suggests songs similar to a user's se
 4. Displays the top 5 recommendations with their album covers
 
 This project demonstrates how natural language processing can be applied to music data to create personalized recommendations based on lyrical content.
+
+
+This project has a "similarity.pkl" file which is of large storage which can be obtained but running the jupyter notebook programs.
